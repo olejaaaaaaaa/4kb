@@ -1,8 +1,5 @@
 
-# Minimal Rust Program 464 bytes on Windows
-
-This is an example of creating one of the smallest programs in the rust language on the Windows platform.
-
+# Intro
 
 ## How to compile?
 
